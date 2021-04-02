@@ -1,2 +1,2 @@
 # FlatCube
-Servidor de Minecraft
+Servidor de minecraft 1.16, sobrevivencia, com bosses, pets, magia, mapas personalizados, dungeons, entre outros...
